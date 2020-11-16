@@ -1,6 +1,7 @@
-## Find the difference GAME!
+# Find the difference GAME!
+Can you spot the difference in a picture?
 
-# Hardware spec
+## Hardware spec
 S3C2450, 16/32-Bit RISC Microprocessor
 1. CLOCK: XTAL12MHz
 2. mDDR: K4X51163PE(16bit)
@@ -15,7 +16,7 @@ S3C2450, 16/32-Bit RISC Microprocessor
 11. AD(VR): 2port analog input
 12. Buzzer: TOUT1
 
-# Execution
+## Execution
 Execute /m2450/lab/student/00_base_runtime/main.c
 
 Then you can play "Find the difference" GAME with K-POP stars (guess who?)
