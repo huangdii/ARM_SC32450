@@ -1,5 +1,6 @@
 # Find the difference GAME!
 Can you spot the difference in a picture?
+Let's play the game with a touchscreen.
 
 ## Hardware spec
 S3C2450, 16/32-Bit RISC Microprocessor
