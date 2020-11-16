@@ -1,0 +1,187 @@
+uCOS_II.o: kernel/uCOS_II.c \
+ /home/user/Desktop/M2450/ucos2/include/includes.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/newlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/config.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/features.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stddef.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stdarg.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/reent.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_default_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/lock.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/ctype.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/alloca.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cfg.h \
+ /home/user/Desktop/M2450/ucos2/include/uCOS_II.H bsp/2450addr.h \
+ bsp/option.h bsp/option.h bsp/libc.h bsp/uartdrv.h bsp/lcddrv.h \
+ bsp/drv/COMMRTOS.H bsp/PC.h bsp/ui.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h kernel/OS_CORE.C \
+ kernel/OS_FLAG.C kernel/OS_MBOX.C kernel/OS_MEM.C kernel/OS_MUTEX.C \
+ kernel/OS_Q.C kernel/OS_SEM.C kernel/OS_TASK.C kernel/OS_TIME.C
+exception.o: bsp/exception.c bsp/2450addr.h bsp/option.h bsp/macro.h
+libc.o: bsp/libc.c /home/user/Desktop/M2450/ucos2/include/includes.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/newlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/config.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/features.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stddef.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stdarg.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/reent.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_default_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/lock.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/ctype.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/alloca.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cfg.h \
+ /home/user/Desktop/M2450/ucos2/include/uCOS_II.H bsp/2450addr.h \
+ bsp/option.h bsp/option.h bsp/libc.h bsp/uartdrv.h bsp/lcddrv.h \
+ bsp/drv/COMMRTOS.H bsp/PC.h bsp/ui.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h bsp/libc.h bsp/MMU.h
+Uart.o: bsp/Uart.c bsp/2450addr.h bsp/option.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stdarg.h
+syscall.o: bsp/syscall.c \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/newlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/config.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/features.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stddef.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/reent.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_default_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/lock.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/alloca.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/errno.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/errno.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/stat.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/time.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/time.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/types.h
+timer.o: bsp/timer.c bsp/2450addr.h bsp/option.h bsp/my_lib.h
+PC.o: bsp/PC.c bsp/../include/includes.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/newlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/config.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/features.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stddef.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stdarg.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/reent.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_default_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/lock.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/ctype.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/alloca.h \
+ bsp/../include/os_cpu.h bsp/../include/os_cfg.h bsp/../include/uCOS_II.H \
+ bsp/2450addr.h bsp/option.h bsp/option.h bsp/libc.h bsp/uartdrv.h \
+ bsp/lcddrv.h bsp/drv/COMMRTOS.H bsp/PC.h bsp/ui.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h bsp/PC.h bsp/lcddrv.h \
+ bsp/ui.h
+os_dbg_r.o: bsp/os_dbg_r.c \
+ /home/user/Desktop/M2450/ucos2/include/uCOS_II.H \
+ /home/user/Desktop/M2450/ucos2/include/os_cfg.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h
+os_cpu_c.o: bsp/os_cpu_c.c \
+ /home/user/Desktop/M2450/ucos2/include/includes.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/newlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/config.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/features.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stddef.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stdarg.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/reent.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_default_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/lock.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/ctype.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/alloca.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cfg.h \
+ /home/user/Desktop/M2450/ucos2/include/uCOS_II.H bsp/2450addr.h \
+ bsp/option.h bsp/option.h bsp/libc.h bsp/uartdrv.h bsp/lcddrv.h \
+ bsp/drv/COMMRTOS.H bsp/PC.h bsp/ui.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h bsp/ui.h
+01_TASKMAN.o: app/01_TASKMAN/01_TASKMAN.c \
+ /home/user/Desktop/M2450/ucos2/include/includes.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/newlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/config.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/features.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stddef.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/include/stdarg.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/reent.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/_ansi.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/_default_types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/lock.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/types.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/stdio.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/sys/string.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/ctype.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/machine/stdlib.h \
+ /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/include/alloca.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cfg.h \
+ /home/user/Desktop/M2450/ucos2/include/uCOS_II.H bsp/2450addr.h \
+ bsp/option.h bsp/option.h bsp/libc.h bsp/uartdrv.h bsp/lcddrv.h \
+ bsp/drv/COMMRTOS.H bsp/PC.h bsp/ui.h \
+ /home/user/Desktop/M2450/ucos2/include/os_cpu.h

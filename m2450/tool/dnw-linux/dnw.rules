@@ -1,0 +1,5 @@
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="5345", ATTRS{idProduct}=="1234", RUN+="/usr/bin/dnw /tftpboot/MDS2450.bin"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="04e8", ATTRS{idProduct}=="1234", RUN+="/usr/bin/dnw /tftpboot/MDS2450.bin"
+
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="5345", ATTRS{idProduct}=="1234", RUN+="/sbin/modprobe secbulk"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="04e8", ATTRS{idProduct}=="1234", RUN+="/sbin/modprobe secbulk"

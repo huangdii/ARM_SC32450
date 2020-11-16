@@ -1,0 +1,2242 @@
+Archive member included because of file (symbol)
+
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+                              serial/syscall.o (__errno)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o) (_impure_ptr)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+                              ../../Source/queue.o (memcpy)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+                              serial/syscall.o (memset)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+                              ../../Source/tasks.o (strrchr)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+                              myserial.o (vsprintf)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o) (strchr)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o) (_svfprintf_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (_wcrtomb_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (_wcsrtombs_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o) (__wctomb)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (_free_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (__locale_charset)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (_malloc_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (__ascii_mbtowc)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (memchr)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o) (__malloc_lock)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o) (_Balloc)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (frexp)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (strcasecmp)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (strcat)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (strcmp)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (strcpy)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (strlcpy)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (strlen)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (strncasecmp)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (strncmp)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (strncpy)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (_strtol_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o) (_wcsnrtombs_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o) (_calloc_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (__set_ctype)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o) (_getenv_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o) (memmove)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o) (environ)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o) (__env_lock)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+                              myserial.o (__aeabi_uidiv)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dsub)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dmul)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpun)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (__aeabi_d2iz)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o) (__clzdi2)
+/opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+                              /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o) (__clzsi2)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+loady            0x80100000         0x00a00000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+LOAD ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+LOAD myserial.o
+LOAD serial/serial.o
+LOAD serial/syscall.o
+LOAD Exception.o
+LOAD serial/serialISR.o
+LOAD /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+LOAD ParTest/ParTest.o
+LOAD ../../Source/tasks.o
+LOAD ../../Source/croutine.o
+LOAD ../../Source/queue.o
+LOAD ../../Source/list.o
+LOAD ../../Source/timers.o
+LOAD ../../Source/event_groups.o
+LOAD ../../Source/portable/MemMang/heap_4.o
+LOAD boot.o
+LOAD random.o
+LOAD libs.o
+LOAD /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libm.a
+LOAD /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a
+LOAD /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a
+                0x8037fffc                __stack_end__ = 0x8037fffc
+                0x00000000                . = 0x0
+
+startup         0x80100000       0x78
+ *(.startup)
+ .startup       0x80100000       0x78 boot.o
+
+.text           0x80100078    0x1c61c
+ *boot.o(.text)
+ .text          0x80100078       0xc4 boot.o
+                0x80100078                start
+                0x8010011c                endless_loop
+ *(.text)
+ .text          0x8010013c      0x2ec ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                0x8010013c                vKey_ISR_Handler
+                0x80100140                vPortISRStartFirstTask
+                0x8010018c                vIRQHandler
+                0x80100288                vPortYieldProcessor
+                0x8010033c                vTickISR
+                0x80100390                vPortEnterCritical
+                0x801003c4                vPortExitCritical
+ .text          0x80100428      0x3bc ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+                0x80100428                pxPortInitialiseStack
+                0x8010062c                xPortStartScheduler
+                0x8010064c                vPortEndScheduler
+                0x801007a0                vAssertCalled
+ .text          0x801007e4      0xc14 myserial.o
+                0x80100e6c                printf
+                0x80100ea8                sprintf
+                0x80100eec                serial_printf
+                0x80100f30                serial_putchar
+                0x80101018                serial_putstring
+                0x8010108c                serial_newline
+                0x801010b0                serial_putlong
+                0x80101150                serial_putint
+                0x801011f0                serial_putint_nozeros
+                0x801012c4                serial_putbyte
+                0x8010139c                printableChar
+ .text          0x801013f8      0x794 serial/serial.o
+                0x801013f8                xSerialPortInitMinimal
+                0x8010199c                xSerialGetChar
+                0x801019f8                vSerialPutString
+                0x80101a64                xSerialPutChar
+                0x80101b7c                vSerialClose
+ .text          0x80101b8c      0x238 serial/syscall.o
+                0x80101b8c                _read_r
+                0x80101bcc                _lseek_r
+                0x80101bf0                _write_r
+                0x80101c80                _close_r
+                0x80101c9c                _sbrk_r
+                0x80101d54                _fstat_r
+                0x80101d9c                _isatty_r
+                0x80101db8                _exit
+ .text          0x80101dc4       0x94 Exception.o
+                0x80101dc4                Undef_Handler
+                0x80101de0                Pabort_Handler
+                0x80101e1c                Dabort_Handler
+ .text          0x80101e58      0x1c0 serial/serialISR.o
+                0x80101e58                vSerialISRCreateQueues
+                0x80101f10                vUART_ISR_Wrapper
+                0x80101fc0                vUART_ISR_Handler
+ .text          0x80102018      0x284 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+                0x80102018                main
+                0x80102064                TaskMain
+                0x8010210c                Task1
+                0x801021ec                Task2
+                0x80102298                vApplicationIdleHook
+ .text          0x8010229c      0x668 ParTest/ParTest.o
+                0x8010229c                vParTestInitialise
+                0x80102408                vParTestSetLED
+                0x80102490                vParTestToggleLED
+                0x80102544                vLogicSniffMultiSetLED5
+                0x80102588                vLogicSniffMultiSetLED6
+                0x801025cc                vLogicSniffSetLED
+                0x801026d0                vLogicSniffToggleLED
+                0x801027d0                OSVersion
+                0x801027e0                freertos_IntroTitle
+ .text          0x80102904     0x3468 ../../Source/tasks.o
+                0x80102904                xTaskCreate
+                0x80102de4                vTaskDelete
+                0x80102f80                vTaskDelayUntil
+                0x80103198                vTaskDelay
+                0x80103250                eTaskGetState
+                0x801033e8                uxTaskPriorityGet
+                0x80103444                uxTaskPriorityGetFromISR
+                0x80103494                vTaskPrioritySet
+                0x801036d0                vTaskSuspend
+                0x80103940                vTaskResume
+                0x80103a98                xTaskResumeFromISR
+                0x80103c10                vTaskStartScheduler
+                0x80103d20                vTaskEndScheduler
+                0x80103d58                vTaskSuspendAll
+                0x80103d78                xTaskResumeAll
+                0x80103fcc                xTaskGetTickCount
+                0x80104004                xTaskGetTickCountFromISR
+                0x80104030                uxTaskGetNumberOfTasks
+                0x80104044                pcTaskGetName
+                0x801040e8                xTaskIncrementTick
+                0x801043dc                vTaskSwitchContext
+                0x8010455c                vTaskPlaceOnEventList
+                0x801045fc                vTaskPlaceOnUnorderedEventList
+                0x80104718                vTaskPlaceOnEventListRestricted
+                0x801047d0                xTaskRemoveFromEventList
+                0x80104958                vTaskRemoveFromUnorderedEventList
+                0x80104afc                vTaskSetTimeOutState
+                0x80104ba0                vTaskInternalSetTimeOutState
+                0x80104bd8                xTaskCheckForTimeOut
+                0x80104d88                vTaskMissedYield
+                0x80104dd0                vTaskSetThreadLocalStoragePointer
+                0x80104e3c                pvTaskGetThreadLocalStoragePointer
+                0x801050bc                xTaskGetCurrentTaskHandle
+                0x801050e0                xTaskGetSchedulerState
+                0x8010513c                uxTaskResetEventItemValue
+                0x80105188                ulTaskNotifyTake
+                0x80105278                xTaskNotifyWait
+                0x801053ac                xTaskGenericNotify
+                0x80105680                xTaskGenericNotifyFromISR
+                0x801059a8                vTaskNotifyGiveFromISR
+                0x80105bb4                xTaskNotifyStateClear
+ .text          0x80105d6c      0x7f4 ../../Source/croutine.o
+                0x80105d6c                xCoRoutineCreate
+                0x80105ee0                vCoRoutineAddToDelayedList
+                0x801062d4                vCoRoutineSchedule
+                0x801064d0                xCoRoutineRemoveFromEventList
+ .text          0x80106560     0x279c ../../Source/queue.o
+                0x80106560                xQueueGenericReset
+                0x801066d8                xQueueGenericCreate
+                0x8010684c                xQueueCreateCountingSemaphore
+                0x80106954                xQueueGenericSend
+                0x80106d0c                xQueueGenericSendFromISR
+                0x80106f5c                xQueueGiveFromISR
+                0x80107184                xQueueReceive
+                0x801074b8                xQueueSemaphoreTake
+                0x801077bc                xQueuePeek
+                0x80107af8                xQueueReceiveFromISR
+                0x80107cc8                xQueuePeekFromISR
+                0x80107e78                uxQueueMessagesWaiting
+                0x80107f08                uxQueueSpacesAvailable
+                0x80107fac                uxQueueMessagesWaitingFromISR
+                0x8010803c                vQueueDelete
+                0x80108420                xQueueIsQueueEmptyFromISR
+                0x80108520                xQueueIsQueueFullFromISR
+                0x801085d0                xQueueCRSend
+                0x80108730                xQueueCRReceive
+                0x801088ec                xQueueCRSendFromISR
+                0x80108988                xQueueCRReceiveFromISR
+                0x80108aa0                vQueueAddToRegistry
+                0x80108b2c                pcQueueGetName
+                0x80108bb4                vQueueUnregisterQueue
+                0x80108c50                vQueueWaitForMessageRestricted
+ .text          0x80108cfc      0x248 ../../Source/list.o
+                0x80108cfc                vListInitialise
+                0x80108d54                vListInitialiseItem
+                0x80108d70                vListInsertEnd
+                0x80108de8                vListInsert
+                0x80108eb0                uxListRemove
+ .text          0x80108f44     0x1024 ../../Source/timers.o
+                0x80108f44                xTimerCreateTimerTask
+                0x80109010                xTimerCreate
+                0x80109158                xTimerGenericCommand
+                0x801092b0                xTimerGetTimerDaemonTaskHandle
+                0x80109330                xTimerGetPeriod
+                0x801093b8                xTimerGetExpiryTime
+                0x80109448                pcTimerGetName
+                0x80109d8c                xTimerIsTimerActive
+                0x80109e3c                pvTimerGetTimerID
+                0x80109ed4                vTimerSetTimerID
+ .text          0x80109f68      0xba4 ../../Source/event_groups.o
+                0x80109f68                xEventGroupCreate
+                0x80109fbc                xEventGroupSync
+                0x8010a284                xEventGroupWaitBits
+                0x8010a5e4                xEventGroupClearBits
+                0x8010a6f8                xEventGroupGetBitsFromISR
+                0x8010a72c                xEventGroupSetBits
+                0x8010a974                vEventGroupDelete
+                0x8010aa40                vEventGroupSetBitsCallback
+                0x8010aa6c                vEventGroupClearBitsCallback
+ .text          0x8010ab0c      0x7bc ../../Source/portable/MemMang/heap_4.o
+                0x8010ab0c                pvPortMalloc
+                0x8010ae60                vPortFree
+                0x8010affc                xPortGetFreeHeapSize
+                0x8010b010                xPortGetMinimumEverFreeHeapSize
+                0x8010b024                vPortInitialiseBlocks
+ .text          0x8010b2c8       0x4c random.o
+                0x8010b2c8                randomnumber
+                0x8010b2ec                seedrand
+                0x8010b304                seed
+ .text          0x8010b314      0x224 libs.o
+                0x8010b314                HOW_TO_RETURN
+                0x8010b318                CONDITIONAL_EXECUTE
+                0x8010b31c                DATA_PROCESS1
+                0x8010b320                DATA_PROCESS2
+                0x8010b324                SUM_OF_DEC
+                0x8010b32c                GRT_COM_MES
+                0x8010b340                MEMCPY_SINGLE
+                0x8010b348                MEMCPY_MULTIPLE
+                0x8010b350                MEMCPY
+                0x8010b3ac                SET_IF
+                0x8010b3c0                WR_IF
+                0x8010b3c8                CLR_IF
+                0x8010b3d8                MMU_EnableICache
+                0x8010b3e8                MMU_DisableICache
+                0x8010b3f8                MMU_EnableDCache
+                0x8010b408                MMU_DisableDCache
+                0x8010b418                MMU_EnableAlignFault
+                0x8010b428                MMU_DisableAlignFault
+                0x8010b438                MMU_EnableMMU
+                0x8010b448                MMU_DisableMMU
+                0x8010b458                MMU_SetFastBusMode
+                0x8010b46c                MMU_SetAsyncBusMode
+                0x8010b480                MMU_SetTTBase
+                0x8010b488                MMU_SetDomain
+                0x8010b490                MMU_InvalidateIDCache
+                0x8010b498                MMU_InvalidateICache
+                0x8010b4a0                MMU_InvalidateICacheMVA
+                0x8010b4a8                MMU_PrefetchICacheMVA
+                0x8010b4b0                MMU_InvalidateDCache
+                0x8010b4b8                MMU_InvalidateDCacheMVA
+                0x8010b4c0                MMU_CleanDCacheMVA
+                0x8010b4c8                MMU_CleanInvalidateDCacheMVA
+                0x8010b4d0                MMU_CleanDCacheIndex
+                0x8010b4d8                MMU_CleanInvalidateDCacheIndex
+                0x8010b4e0                MMU_WaitForInterrupt
+                0x8010b4e8                MMU_InvalidateTLB
+                0x8010b4f0                MMU_InvalidateITLB
+                0x8010b4f8                MMU_InvalidateITLBMVA
+                0x8010b500                MMU_InvalidateDTLB
+                0x8010b508                MMU_InvalidateDTLBMVA
+                0x8010b510                MMU_SetDCacheLockdownBase
+                0x8010b518                MMU_SetICacheLockdownBase
+                0x8010b520                MMU_SetDTLBLockdown
+                0x8010b528                MMU_SetITLBLockdown
+                0x8010b530                MMU_SetProcessId
+ .text          0x8010b538       0x10 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+                0x8010b538                __errno
+ .text          0x8010b548        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ .text          0x8010b548      0x114 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+                0x8010b548                memcpy
+ .text          0x8010b65c      0x114 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+                0x8010b65c                memset
+ .text          0x8010b770       0x54 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+                0x8010b770                strrchr
+ .text          0x8010b7c4       0x6c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+                0x8010b7c4                _vsprintf_r
+                0x8010b814                vsprintf
+ .text          0x8010b830      0x1b0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+                0x8010b830                strchr
+ .text          0x8010b9e0     0x5b1c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+                0x8010d0a0                _svfprintf_r
+ .text          0x801114fc      0x138 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+                0x801114fc                _wcrtomb_r
+                0x80111594                wcrtomb
+ .text          0x80111634       0x5c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+                0x80111634                _wcsrtombs_r
+                0x80111658                wcsrtombs
+ .text          0x80111690      0x398 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                0x80111690                __ascii_wctomb
+                0x801116b8                _wctomb_r
+                0x80111708                __utf8_wctomb
+                0x801117f4                __sjis_wctomb
+                0x80111880                __eucjp_wctomb
+                0x80111948                __jis_wctomb
+ .text          0x80111a28     0x1800 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                0x80111c08                _dtoa_r
+ .text          0x80113228      0x3e0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+                0x80113228                _malloc_trim_r
+                0x80113328                _free_r
+ .text          0x80113608      0xd2c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                0x80113fe0                _setlocale_r
+                0x801142cc                __locale_charset
+                0x801142d8                __locale_mb_cur_max
+                0x801142e8                __locale_msgcharset
+                0x801142f4                __locale_cjk_lang
+                0x80114304                _localeconv_r
+                0x80114310                setlocale
+                0x80114328                localeconv
+ .text          0x80114334      0x750 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                0x80114334                _malloc_r
+ .text          0x80114a84      0x794 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                0x80114a84                __ascii_mbtowc
+                0x80114ad0                _mbtowc_r
+                0x80114b24                __utf8_mbtowc
+                0x80114e30                __sjis_mbtowc
+                0x80114f10                __eucjp_mbtowc
+                0x80115058                __jis_mbtowc
+ .text          0x80115218      0x110 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+                0x80115218                memchr
+ .text          0x80115328        0x8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+                0x80115328                __malloc_lock
+                0x8011532c                __malloc_unlock
+ .text          0x80115330      0xd90 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                0x80115330                _Balloc
+                0x801153bc                _Bfree
+                0x801153d8                __multadd
+                0x801154b4                __s2b
+                0x8011559c                __hi0bits
+                0x801155f4                __lo0bits
+                0x80115694                __i2b
+                0x801156b8                __multiply
+                0x80115888                __pow5mult
+                0x8011598c                __lshift
+                0x80115a74                __mcmp
+                0x80115ad4                __mdiff
+                0x80115c7c                __ulp
+                0x80115ce4                __b2d
+                0x80115dd0                __d2b
+                0x80115ee0                __ratio
+                0x80115f70                _mprec_log10
+                0x80115fd0                __copybits
+                0x80116040                __any_on
+ .text          0x801160c0       0x98 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+                0x801160c0                frexp
+ .text          0x80116158       0x74 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+                0x80116158                strcasecmp
+ .text          0x801161cc       0x74 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+                0x801161cc                strcat
+ .text          0x80116240      0x224 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+                0x80116240                strcmp
+ .text          0x80116464       0xf0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+                0x80116464                strcpy
+ .text          0x80116554       0x48 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+                0x80116554                strlcpy
+ .text          0x8011659c       0x60 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+                0x8011659c                strlen
+ .text          0x801165fc       0x98 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+                0x801165fc                strncasecmp
+ .text          0x80116694      0x110 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+                0x80116694                strncmp
+ .text          0x801167a4       0xdc /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+                0x801167a4                strncpy
+ .text          0x80116880      0x23c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+                0x80116880                _strtol_r
+                0x80116aa0                strtol
+ .text          0x80116abc     0x44b4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                0x80118280                __ssprint_r
+                0x80118410                _svfiprintf_r
+ .text          0x8011af70      0x1dc /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+                0x8011af70                _wcsnrtombs_r
+                0x8011b110                wcsnrtombs
+ .text          0x8011b14c       0x98 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+                0x8011b14c                _calloc_r
+ .text          0x8011b1e4       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+                0x8011b1e4                __set_ctype
+ .text          0x8011b1fc       0xec /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+                0x8011b1fc                _findenv_r
+                0x8011b2cc                _getenv_r
+ .text          0x8011b2e8      0x148 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+                0x8011b2e8                memmove
+ .text          0x8011b430      0x4d4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                0x8011b430                _realloc_r
+ .text          0x8011b904        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+ .text          0x8011b904        0x8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+                0x8011b904                __env_lock
+                0x8011b908                __env_unlock
+ .text          0x8011b90c      0x114 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+                0x8011b90c                __udivsi3
+                0x8011b90c                __aeabi_uidiv
+                0x8011ba00                __aeabi_uidivmod
+ .text          0x8011ba20        0x4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+                0x8011ba20                __aeabi_ldiv0
+                0x8011ba20                __aeabi_idiv0
+ .text          0x8011ba24      0x424 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+                0x8011ba24                __aeabi_drsub
+                0x8011ba2c                __aeabi_dsub
+                0x8011ba2c                __subdf3
+                0x8011ba30                __adddf3
+                0x8011ba30                __aeabi_dadd
+                0x8011bd40                __aeabi_ui2d
+                0x8011bd40                __floatunsidf
+                0x8011bd64                __floatsidf
+                0x8011bd64                __aeabi_i2d
+                0x8011bd8c                __extendsfdf2
+                0x8011bd8c                __aeabi_f2d
+                0x8011bdd4                __aeabi_ul2d
+                0x8011bdd4                __floatundidf
+                0x8011bde8                __floatdidf
+                0x8011bde8                __aeabi_l2d
+ .text          0x8011be48      0x49c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+                0x8011be48                __aeabi_dmul
+                0x8011be48                __muldf3
+                0x8011c0d8                __aeabi_ddiv
+                0x8011c0d8                __divdf3
+ .text          0x8011c2e4      0x144 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+                0x8011c2e4                __gtdf2
+                0x8011c2e4                __gedf2
+                0x8011c2ec                __ltdf2
+                0x8011c2ec                __ledf2
+                0x8011c2f4                __cmpdf2
+                0x8011c2f4                __eqdf2
+                0x8011c2f4                __nedf2
+                0x8011c37c                __aeabi_cdrcmple
+                0x8011c398                __aeabi_cdcmple
+                0x8011c398                __aeabi_cdcmpeq
+                0x8011c3b0                __aeabi_dcmpeq
+                0x8011c3c8                __aeabi_dcmplt
+                0x8011c3e0                __aeabi_dcmple
+                0x8011c3f8                __aeabi_dcmpge
+                0x8011c410                __aeabi_dcmpgt
+ .text          0x8011c428       0x38 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+                0x8011c428                __aeabi_dcmpun
+                0x8011c428                __unorddf2
+ .text          0x8011c460       0x5c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+                0x8011c460                __fixdfsi
+                0x8011c460                __aeabi_d2iz
+ .text          0x8011c4bc       0x3c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+                0x8011c4bc                __aeabi_uldivmod
+ .text          0x8011c4f8      0x12c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+                0x8011c4f8                __udivmoddi4
+ .text          0x8011c624       0x28 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+                0x8011c624                __clzdi2
+ .text          0x8011c64c       0x48 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+                0x8011c64c                __clzsi2
+                0x8011c694                . = ALIGN (0x4)
+
+.glue_7         0x8011c694        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x8011c694        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x8011c694        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x8011c694        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x8011c694        0x0
+ .iplt          0x00000000        0x0 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+
+.rodata         0x8011c698     0x1004
+                0x8011c698                rodata_start_addr = .
+ *(.rodata)
+ .rodata        0x8011c698       0x20 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .rodata        0x8011c6b8        0x8 myserial.o
+ .rodata        0x8011c6c0       0x74 Exception.o
+ .rodata        0x8011c734      0x164 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .rodata        0x8011c898      0x6e4 ParTest/ParTest.o
+ .rodata        0x8011cf7c       0x20 ../../Source/tasks.o
+ .rodata        0x8011cf9c       0x18 ../../Source/queue.o
+ .rodata        0x8011cfb4       0x28 ../../Source/timers.o
+ .rodata        0x8011cfdc       0x1c ../../Source/event_groups.o
+ .rodata        0x8011cff8       0x2c ../../Source/portable/MemMang/heap_4.o
+ .rodata        0x8011d024        0x4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+                0x8011d024                _global_impure_ptr
+ .rodata        0x8011d028       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .rodata        0x8011d048       0x1c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .rodata        0x8011d064       0x90 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ *fill*         0x8011d0f4        0x4 
+ .rodata        0x8011d0f8      0x128 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                0x8011d108                __mprec_tens
+                0x8011d1d0                __mprec_tinytens
+                0x8011d1f8                __mprec_bigtens
+ .rodata        0x8011d220      0x1f8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                0x8011d220                __chclass
+                0x8011d320                __state_table
+                0x8011d38c                __action_table
+ .rodata        0x8011d418      0x101 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+                0x8011d418                _ctype_
+ *(.rodata.*)
+ *fill*         0x8011d519        0x3 
+ .rodata.str1.4
+                0x8011d51c        0x2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ *fill*         0x8011d51e        0x2 
+ .rodata.str1.4
+                0x8011d520       0x42 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ *fill*         0x8011d562        0x2 
+ .rodata.str1.4
+                0x8011d564       0x10 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                 0x12 (size before relaxing)
+ .rodata.str1.4
+                0x8011d574      0x128 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                0x12d (size before relaxing)
+ .rodata.str1.4
+                0x00000000       0x2f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                0x8011d69c                . = ALIGN (0x4)
+                0x8011d69c                rodata_end_addr = .
+
+.ARM.extab      0x8011d69c        0x0
+ .ARM.extab     0x8011d69c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+
+.ARM.exidx      0x8011d69c        0x8
+ .ARM.exidx     0x8011d69c        0x8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+
+.rel.dyn        0x8011d6a4        0x0
+ .rel.iplt      0x00000000        0x0 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+
+.data           0x8011d6a8      0x9f8
+                0x8011d6a8                data_start_addr = .
+                0x8011d6a8                __DATA_START__ = .
+ *(.data)
+ .data          0x8011d6a8        0x4 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                0x8011d6a8                ulCriticalNesting
+ .data          0x8011d6ac        0x0 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .data          0x8011d6ac        0x0 myserial.o
+ .data          0x8011d6ac        0x0 serial/serial.o
+ .data          0x8011d6ac        0x0 serial/syscall.o
+ .data          0x8011d6ac        0x0 Exception.o
+ .data          0x8011d6ac        0x0 serial/serialISR.o
+ .data          0x8011d6ac        0x0 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .data          0x8011d6ac       0x20 ParTest/ParTest.o
+                0x8011d6ac                pads_logicsniffs
+ .data          0x8011d6cc        0x0 ../../Source/tasks.o
+ .data          0x8011d6cc        0x0 ../../Source/croutine.o
+ .data          0x8011d6cc        0x0 ../../Source/queue.o
+ .data          0x8011d6cc        0x0 ../../Source/list.o
+ .data          0x8011d6cc        0x0 ../../Source/timers.o
+ .data          0x8011d6cc        0x0 ../../Source/event_groups.o
+ .data          0x8011d6cc        0x0 ../../Source/portable/MemMang/heap_4.o
+ .data          0x8011d6cc        0x0 boot.o
+ .data          0x8011d6cc        0x0 random.o
+ .data          0x8011d6cc        0x0 libs.o
+ .data          0x8011d6cc        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+ *fill*         0x8011d6cc        0x4 
+ .data          0x8011d6d0      0x430 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+                0x8011d6d0                _impure_ptr
+ .data          0x8011db00        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .data          0x8011db00        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .data          0x8011db00        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .data          0x8011db00        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .data          0x8011db00        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .data          0x8011db00        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .data          0x8011db00        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .data          0x8011db00        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .data          0x8011db00        0x4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                0x8011db00                __wctomb
+ .data          0x8011db04        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .data          0x8011db04        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .data          0x8011db04      0x17c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                0x8011db04                __default_locale
+                0x8011dc24                __mb_cur_max
+ .data          0x8011dc80      0x410 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                0x8011dc80                __malloc_av_
+                0x8011e088                __malloc_sbrk_base
+                0x8011e08c                __malloc_trim_threshold
+ .data          0x8011e090        0x4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                0x8011e090                __mbtowc
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .data          0x8011e094        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .data          0x8011e094        0x4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+                0x8011e094                __ctype_ptr__
+ .data          0x8011e098        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .data          0x8011e098        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .data          0x8011e098        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .data          0x8011e098        0x4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+                0x8011e098                environ
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+ .data          0x8011e09c        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+ *(.data.*)
+                0x8011e0a0                . = ALIGN (0x8)
+ *fill*         0x8011e09c        0x4 
+                0x8011e0a0                data_end_addr = .
+                0x8011e0a0                __DATA_END__ = .
+
+.igot.plt       0x8011e0a0        0x0
+ .igot.plt      0x00000000        0x0 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+
+.bss            0x8011e0a0     0x70c8
+                0x8011e0a0                bss_start_addr = .
+                0x8011e0a0                __BSS_START__ = .
+ *(.bss)
+ .bss           0x8011e0a0        0x4 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                0x8011e0a0                buttoncounter
+ .bss           0x8011e0a4        0x0 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .bss           0x8011e0a4        0x0 myserial.o
+ .bss           0x8011e0a4        0xc serial/serial.o
+ .bss           0x8011e0b0        0x4 serial/syscall.o
+ .bss           0x8011e0b4        0x0 Exception.o
+ .bss           0x8011e0b4        0xc serial/serialISR.o
+ .bss           0x8011e0c0       0x20 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+                0x8011e0c0                Param_Tbl
+                0x8011e0cc                xHandleMain
+                0x8011e0d0                xHandle1
+                0x8011e0d4                xHandle2
+                0x8011e0d8                task1timer
+                0x8011e0dc                task2timer
+ .bss           0x8011e0e0        0x0 ParTest/ParTest.o
+ .bss           0x8011e0e0      0x870 ../../Source/tasks.o
+                0x8011e0e0                pxCurrentTCB
+ .bss           0x8011e950       0x80 ../../Source/croutine.o
+                0x8011e9bc                pxCurrentCoRoutine
+ .bss           0x8011e9d0       0x50 ../../Source/queue.o
+                0x8011e9d0                xQueueRegistry
+ .bss           0x8011ea20        0x0 ../../Source/list.o
+ .bss           0x8011ea20       0x3c ../../Source/timers.o
+ .bss           0x8011ea5c        0x0 ../../Source/event_groups.o
+ .bss           0x8011ea5c     0x6418 ../../Source/portable/MemMang/heap_4.o
+ .bss           0x80124e74        0x0 boot.o
+ .bss           0x80124e74        0x0 random.o
+ .bss           0x80124e74        0x0 libs.o
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .bss           0x80124e74        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .bss           0x80124e74      0x2b8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                0x80125120                _PathLocale
+                0x80125124                __mlocale_changed
+                0x80125128                __nlocale_changed
+ .bss           0x8012512c       0x34 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                0x8012512c                __malloc_top_pad
+                0x80125130                __malloc_current_mallinfo
+                0x80125158                __malloc_max_sbrked_mem
+                0x8012515c                __malloc_max_total_mem
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .bss           0x80125160        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x80125160        0x4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+ .bss           0x80125164        0x0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+ *(.bss.*)
+ *(COMMON)
+                0x80125168                . = ALIGN (0x8)
+ *fill*         0x80125164        0x4 
+                0x80125168                bss_end_addr = .
+                0x80125168                __BSS_END__ = .
+                0x80125168                end = .
+                0x80125168                PROVIDE (end, .)
+OUTPUT(rtosdemo.elf elf32-littlearm)
+
+.debug_frame    0x00000000     0x3158
+ .debug_frame   0x00000000       0x80 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+ .debug_frame   0x00000080       0xa8 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .debug_frame   0x00000128      0x2a8 myserial.o
+ .debug_frame   0x000003d0       0xd8 serial/serial.o
+ .debug_frame   0x000004a8      0x120 serial/syscall.o
+ .debug_frame   0x000005c8       0x94 Exception.o
+ .debug_frame   0x0000065c       0x78 serial/serialISR.o
+ .debug_frame   0x000006d4       0xfc /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .debug_frame   0x000007d0      0x130 ParTest/ParTest.o
+ .debug_frame   0x00000900      0x7a0 ../../Source/tasks.o
+ .debug_frame   0x000010a0      0x144 ../../Source/croutine.o
+ .debug_frame   0x000011e4      0x528 ../../Source/queue.o
+ .debug_frame   0x0000170c       0x88 ../../Source/list.o
+ .debug_frame   0x00001794      0x36c ../../Source/timers.o
+ .debug_frame   0x00001b00      0x1a0 ../../Source/event_groups.o
+ .debug_frame   0x00001ca0       0xc8 ../../Source/portable/MemMang/heap_4.o
+ .debug_frame   0x00001d68       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+ .debug_frame   0x00001d88       0x44 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001dcc       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x00001dfc       0x3c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .debug_frame   0x00001e38       0x48 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .debug_frame   0x00001e80       0x54 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .debug_frame   0x00001ed4       0x8c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00001f60       0x78 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_frame   0x00001fd8       0x50 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .debug_frame   0x00002028       0xf4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x0000211c       0xac /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x000021c8       0x70 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x00002238      0x1ac /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x000023e4       0x7c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00002460      0x1b4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00002614       0x38 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x0000264c       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000267c      0x304 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .debug_frame   0x00002980       0x34 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .debug_frame   0x000029b4       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .debug_frame   0x000029e4       0x2c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .debug_frame   0x00002a10       0x40 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00002a50       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00002a70       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .debug_frame   0x00002a90       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00002ab0       0x38 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_frame   0x00002ae8       0x50 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .debug_frame   0x00002b38       0x40 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00002b78       0x5c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .debug_frame   0x00002bd4       0xd8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00002cac       0x80 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .debug_frame   0x00002d2c       0x34 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .debug_frame   0x00002d60       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+ .debug_frame   0x00002d80       0x70 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .debug_frame   0x00002df0       0x40 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00002e30       0x60 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00002e90       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .debug_frame   0x00002ec0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00002ee0       0xac /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00002f8c       0x50 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00002fdc       0xc4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x000030a0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x000030c0       0x24 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x000030e4       0x2c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00003110       0x48 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+
+.debug_info     0x00000000    0x2474d
+ .debug_info    0x00000000      0x1f3 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+ .debug_info    0x000001f3      0x1a0 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .debug_info    0x00000393      0x5f6 myserial.o
+ .debug_info    0x00000989      0x2c6 serial/serial.o
+ .debug_info    0x00000c4f      0xc1b serial/syscall.o
+ .debug_info    0x0000186a       0xd4 Exception.o
+ .debug_info    0x0000193e      0x1fc serial/serialISR.o
+ .debug_info    0x00001b3a      0x235 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .debug_info    0x00001d6f      0x27c ParTest/ParTest.o
+ .debug_info    0x00001feb     0x13cf ../../Source/tasks.o
+ .debug_info    0x000033ba      0x4c7 ../../Source/croutine.o
+ .debug_info    0x00003881      0xf82 ../../Source/queue.o
+ .debug_info    0x00004803      0x2a8 ../../Source/list.o
+ .debug_info    0x00004aab      0x96d ../../Source/timers.o
+ .debug_info    0x00005418      0x625 ../../Source/event_groups.o
+ .debug_info    0x00005a3d      0x2e4 ../../Source/portable/MemMang/heap_4.o
+ .debug_info    0x00005d21       0x75 boot.o
+ .debug_info    0x00005d96       0x7b random.o
+ .debug_info    0x00005e11       0x79 libs.o
+ .debug_info    0x00005e8a      0x8c8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+ .debug_info    0x00006752      0x8a1 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ .debug_info    0x00006ff3      0x930 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_info    0x00007923      0x917 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .debug_info    0x0000823a      0x8ed /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .debug_info    0x00008b27      0xb9e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .debug_info    0x000096c5      0x90d /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .debug_info    0x00009fd2     0x281f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .debug_info    0x0000c7f1      0xb4b /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_info    0x0000d33c      0x9f2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .debug_info    0x0000dd2e      0xce3 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_info    0x0000ea11     0x1309 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .debug_info    0x0000fd1a      0xc93 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .debug_info    0x000109ad     0x184d /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .debug_info    0x000121fa      0xddc /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .debug_info    0x00012fd6      0xf0e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_info    0x00013ee4      0x931 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_info    0x00014815      0x8d4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .debug_info    0x000150e9     0x1740 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .debug_info    0x00016829      0x9ec /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .debug_info    0x00017215      0x969 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .debug_info    0x00017b7e      0x906 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .debug_info    0x00018484      0x15f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+ .debug_info    0x000185e3      0x8b4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .debug_info    0x00018e97      0x8f5 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .debug_info    0x0001978c      0x8b2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_info    0x0001a03e      0x981 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_info    0x0001a9bf      0x8f2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .debug_info    0x0001b2b1      0x929 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .debug_info    0x0001bbda      0xa18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .debug_info    0x0001c5f2     0x21e5 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_info    0x0001e7d7      0xb78 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .debug_info    0x0001f34f      0xb5d /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .debug_info    0x0001feac       0xed /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+ .debug_info    0x0001ff99      0x9fc /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .debug_info    0x00020995      0x926 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .debug_info    0x000212bb      0xdbb /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .debug_info    0x00022076       0x66 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+ .debug_info    0x000220dc      0x8d4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .debug_info    0x000229b0      0x12e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+ .debug_info    0x00022ade      0x12e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00022c0c      0x12f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x00022d3b      0x12f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x00022e6a      0x12f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x00022f99      0x12f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+ .debug_info    0x000230c8      0x12f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x000231f7      0x12a /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00023321     0x11d0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+ .debug_info    0x000244f1      0x12e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+ .debug_info    0x0002461f      0x12e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+
+.debug_abbrev   0x00000000     0x6816
+ .debug_abbrev  0x00000000       0xe4 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+ .debug_abbrev  0x000000e4      0x113 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .debug_abbrev  0x000001f7      0x1d5 myserial.o
+ .debug_abbrev  0x000003cc      0x126 serial/serial.o
+ .debug_abbrev  0x000004f2      0x207 serial/syscall.o
+ .debug_abbrev  0x000006f9       0x8a Exception.o
+ .debug_abbrev  0x00000783       0xcc serial/serialISR.o
+ .debug_abbrev  0x0000084f      0x116 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .debug_abbrev  0x00000965      0x119 ParTest/ParTest.o
+ .debug_abbrev  0x00000a7e      0x21d ../../Source/tasks.o
+ .debug_abbrev  0x00000c9b      0x187 ../../Source/croutine.o
+ .debug_abbrev  0x00000e22      0x1d7 ../../Source/queue.o
+ .debug_abbrev  0x00000ff9       0xc5 ../../Source/list.o
+ .debug_abbrev  0x000010be      0x1b0 ../../Source/timers.o
+ .debug_abbrev  0x0000126e      0x13e ../../Source/event_groups.o
+ .debug_abbrev  0x000013ac      0x158 ../../Source/portable/MemMang/heap_4.o
+ .debug_abbrev  0x00001504       0x12 boot.o
+ .debug_abbrev  0x00001516       0x14 random.o
+ .debug_abbrev  0x0000152a       0x14 libs.o
+ .debug_abbrev  0x0000153e      0x1a3 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+ .debug_abbrev  0x000016e1      0x187 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00001868      0x1d7 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00001a3f      0x1cb /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00001c0a      0x1e2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .debug_abbrev  0x00001dec      0x247 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .debug_abbrev  0x00002033      0x1bc /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .debug_abbrev  0x000021ef      0x3d7 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .debug_abbrev  0x000025c6      0x21d /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_abbrev  0x000027e3      0x1de /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .debug_abbrev  0x000029c1      0x26a /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_abbrev  0x00002c2b      0x2ee /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .debug_abbrev  0x00002f19      0x26a /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x00003183      0x359 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x000034dc      0x2c4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x000037a0      0x2d0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_abbrev  0x00003a70      0x1d0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_abbrev  0x00003c40      0x1c8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x00003e08      0x3fd /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .debug_abbrev  0x00004205      0x232 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .debug_abbrev  0x00004437      0x1e2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .debug_abbrev  0x00004619      0x1ea /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .debug_abbrev  0x00004803       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x00004817      0x1ab /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .debug_abbrev  0x000049c2      0x1ba /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .debug_abbrev  0x00004b7c      0x19c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_abbrev  0x00004d18      0x1e2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_abbrev  0x00004efa      0x1ad /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .debug_abbrev  0x000050a7      0x1d2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .debug_abbrev  0x00005279      0x21e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .debug_abbrev  0x00005497      0x349 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_abbrev  0x000057e0      0x23f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .debug_abbrev  0x00005a1f      0x237 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .debug_abbrev  0x00005c56       0x89 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+ .debug_abbrev  0x00005cdf      0x20f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .debug_abbrev  0x00005eee      0x1d0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x000060be      0x254 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x00006312       0x54 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+ .debug_abbrev  0x00006366      0x1cc /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .debug_abbrev  0x00006532       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x00006546       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x0000655a       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0000656e       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x00006582       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+ .debug_abbrev  0x00006596       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+ .debug_abbrev  0x000065aa       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x000065be       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x000065d2      0x21c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x000067ee       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+ .debug_abbrev  0x00006802       0x14 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x00000000      0x898
+ .debug_aranges
+                0x00000000       0x20 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+ .debug_aranges
+                0x00000020       0x20 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .debug_aranges
+                0x00000040       0x20 myserial.o
+ .debug_aranges
+                0x00000060       0x20 serial/serial.o
+ .debug_aranges
+                0x00000080       0x20 serial/syscall.o
+ .debug_aranges
+                0x000000a0       0x20 Exception.o
+ .debug_aranges
+                0x000000c0       0x20 serial/serialISR.o
+ .debug_aranges
+                0x000000e0       0x20 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .debug_aranges
+                0x00000100       0x20 ParTest/ParTest.o
+ .debug_aranges
+                0x00000120       0x20 ../../Source/tasks.o
+ .debug_aranges
+                0x00000140       0x20 ../../Source/croutine.o
+ .debug_aranges
+                0x00000160       0x20 ../../Source/queue.o
+ .debug_aranges
+                0x00000180       0x20 ../../Source/list.o
+ .debug_aranges
+                0x000001a0       0x20 ../../Source/timers.o
+ .debug_aranges
+                0x000001c0       0x20 ../../Source/event_groups.o
+ .debug_aranges
+                0x000001e0       0x20 ../../Source/portable/MemMang/heap_4.o
+ .debug_aranges
+                0x00000200       0x28 boot.o
+ .debug_aranges
+                0x00000228       0x20 random.o
+ .debug_aranges
+                0x00000248       0x20 libs.o
+ .debug_aranges
+                0x00000268       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+ .debug_aranges
+                0x00000288       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x000002a0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x000002c0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x000002e0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .debug_aranges
+                0x00000300       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .debug_aranges
+                0x00000320       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .debug_aranges
+                0x00000340       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .debug_aranges
+                0x00000360       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_aranges
+                0x00000380       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .debug_aranges
+                0x000003a0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_aranges
+                0x000003c0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .debug_aranges
+                0x000003e0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000400       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x00000420       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x00000440       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_aranges
+                0x00000460       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_aranges
+                0x00000480       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x000004a0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .debug_aranges
+                0x000004c0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .debug_aranges
+                0x000004e0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .debug_aranges
+                0x00000500       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .debug_aranges
+                0x00000520       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x00000540       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .debug_aranges
+                0x00000560       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .debug_aranges
+                0x00000580       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_aranges
+                0x000005a0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_aranges
+                0x000005c0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .debug_aranges
+                0x000005e0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .debug_aranges
+                0x00000600       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .debug_aranges
+                0x00000620       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_aranges
+                0x00000640       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .debug_aranges
+                0x00000660       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .debug_aranges
+                0x00000680       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+ .debug_aranges
+                0x000006a0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .debug_aranges
+                0x000006c0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x000006e0       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x00000700       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+ .debug_aranges
+                0x00000718       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .debug_aranges
+                0x00000738       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x00000758       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00000778       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x00000798       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x000007b8       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+ .debug_aranges
+                0x000007d8       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+ .debug_aranges
+                0x000007f8       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x00000818       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x00000838       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x00000858       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+ .debug_aranges
+                0x00000878       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+
+.debug_line     0x00000000     0xcc48
+ .debug_line    0x00000000       0xb0 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+ .debug_line    0x000000b0      0x133 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .debug_line    0x000001e3      0x280 myserial.o
+ .debug_line    0x00000463      0x1a9 serial/serial.o
+ .debug_line    0x0000060c       0xf9 serial/syscall.o
+ .debug_line    0x00000705       0x53 Exception.o
+ .debug_line    0x00000758      0x10a serial/serialISR.o
+ .debug_line    0x00000862       0xe0 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .debug_line    0x00000942       0xc8 ParTest/ParTest.o
+ .debug_line    0x00000a0a      0x935 ../../Source/tasks.o
+ .debug_line    0x0000133f      0x1d3 ../../Source/croutine.o
+ .debug_line    0x00001512      0x7e4 ../../Source/queue.o
+ .debug_line    0x00001cf6      0x127 ../../Source/list.o
+ .debug_line    0x00001e1d      0x362 ../../Source/timers.o
+ .debug_line    0x0000217f      0x2d7 ../../Source/event_groups.o
+ .debug_line    0x00002456      0x1ce ../../Source/portable/MemMang/heap_4.o
+ .debug_line    0x00002624       0x9e boot.o
+ .debug_line    0x000026c2       0x4d random.o
+ .debug_line    0x0000270f      0x102 libs.o
+ .debug_line    0x00002811      0x1e6 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+ .debug_line    0x000029f7      0x1cb /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ .debug_line    0x00002bc2      0x2b8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00002e7a      0x297 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .debug_line    0x00003111      0x26c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .debug_line    0x0000337d      0x2b5 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .debug_line    0x00003632      0x2af /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .debug_line    0x000038e1     0x1719 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .debug_line    0x00004ffa      0x2b6 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_line    0x000052b0      0x26f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .debug_line    0x0000551f      0x366 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_line    0x00005885      0x7a9 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .debug_line    0x0000602e      0x370 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .debug_line    0x0000639e      0x556 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .debug_line    0x000068f4      0x47f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .debug_line    0x00006d73      0x4a4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_line    0x00007217      0x2a6 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_line    0x000074bd      0x1da /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .debug_line    0x00007697      0x71e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .debug_line    0x00007db5      0x3a6 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .debug_line    0x0000815b      0x28f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .debug_line    0x000083ea      0x275 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .debug_line    0x0000865f      0x14f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+ .debug_line    0x000087ae      0x269 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .debug_line    0x00008a17      0x275 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .debug_line    0x00008c8c      0x26e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_line    0x00008efa      0x299 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_line    0x00009193      0x2bd /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .debug_line    0x00009450      0x28c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .debug_line    0x000096dc      0x31e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .debug_line    0x000099fa     0x1397 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_line    0x0000ad91      0x2e1 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .debug_line    0x0000b072      0x21f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .debug_line    0x0000b291      0x13d /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+ .debug_line    0x0000b3ce      0x2b2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .debug_line    0x0000b680      0x2aa /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .debug_line    0x0000b92a      0x31b /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .debug_line    0x0000bc45       0xa5 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+ .debug_line    0x0000bcea      0x265 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .debug_line    0x0000bf4f       0xc4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+ .debug_line    0x0000c013       0xa7 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000c0ba      0x1b6 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x0000c270      0x1c8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x0000c438       0xf8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x0000c530       0xb5 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+ .debug_line    0x0000c5e5       0xbe /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x0000c6a3       0xa7 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x0000c74a      0x399 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+ .debug_line    0x0000cae3       0xb1 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+ .debug_line    0x0000cb94       0xb4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+
+.debug_str      0x00000000     0x57ea
+ .debug_str     0x00000000      0x212 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                                0x256 (size before relaxing)
+ .debug_str     0x00000212      0x105 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+                                0x2a0 (size before relaxing)
+ .debug_str     0x00000317      0x11f myserial.o
+                                0x2c5 (size before relaxing)
+ .debug_str     0x00000436      0x10e serial/serial.o
+                                0x2cf (size before relaxing)
+ .debug_str     0x00000544      0x4c3 serial/syscall.o
+                                0x69c (size before relaxing)
+ .debug_str     0x00000a07       0x50 Exception.o
+                                0x1c2 (size before relaxing)
+ .debug_str     0x00000a57       0x76 serial/serialISR.o
+                                0x293 (size before relaxing)
+ .debug_str     0x00000acd       0xfa /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+                                0x288 (size before relaxing)
+ .debug_str     0x00000bc7      0x14e ParTest/ParTest.o
+                                0x2c0 (size before relaxing)
+ .debug_str     0x00000d15      0xb20 ../../Source/tasks.o
+                                0xd8a (size before relaxing)
+ .debug_str     0x00001835      0x25d ../../Source/croutine.o
+                                0x508 (size before relaxing)
+ .debug_str     0x00001a92      0x4da ../../Source/queue.o
+                                0x840 (size before relaxing)
+ .debug_str     0x00001f6c       0xa8 ../../Source/list.o
+                                0x2d9 (size before relaxing)
+ .debug_str     0x00002014      0x416 ../../Source/timers.o
+                                0x71c (size before relaxing)
+ .debug_str     0x0000242a      0x25f ../../Source/event_groups.o
+                                0x4f4 (size before relaxing)
+ .debug_str     0x00002689      0x1d1 ../../Source/portable/MemMang/heap_4.o
+                                0x370 (size before relaxing)
+ .debug_str     0x0000285a       0xe2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+                                0x536 (size before relaxing)
+ .debug_str     0x0000293c       0x8f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+                                0x524 (size before relaxing)
+ .debug_str     0x000029cb       0xbc /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+                                0x558 (size before relaxing)
+ .debug_str     0x00002a87       0x9f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+                                0x53b (size before relaxing)
+ .debug_str     0x00002b26       0x94 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+                                0x52e (size before relaxing)
+ .debug_str     0x00002bba      0x26b /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+                                0x744 (size before relaxing)
+ .debug_str     0x00002e25       0x89 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+                                0x532 (size before relaxing)
+ .debug_str     0x00002eae      0x4b6 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+                                0xc79 (size before relaxing)
+ .debug_str     0x00003364      0x137 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+                                0x654 (size before relaxing)
+ .debug_str     0x0000349b       0x9f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+                                0x5fd (size before relaxing)
+ .debug_str     0x0000353a       0xea /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                                0x6ad (size before relaxing)
+ .debug_str     0x00003624      0x1ba /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                0x717 (size before relaxing)
+ .debug_str     0x000037de      0x1e9 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+                                0x7a7 (size before relaxing)
+ .debug_str     0x000039c7      0x3da /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                0x9c9 (size before relaxing)
+ .debug_str     0x00003da1       0xb0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                0x82e (size before relaxing)
+ .debug_str     0x00003e51      0x1b4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                                0x798 (size before relaxing)
+ .debug_str     0x00004005       0x9c /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+                                0x54b (size before relaxing)
+ .debug_str     0x000040a1       0x98 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+                                0x54b (size before relaxing)
+ .debug_str     0x00004139       0xdd /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                0x6c0 (size before relaxing)
+ .debug_str     0x00004216       0xc4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+                                0x5d8 (size before relaxing)
+ .debug_str     0x000042da       0xa8 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+                                0x548 (size before relaxing)
+ .debug_str     0x00004382       0x8f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+                                0x532 (size before relaxing)
+ .debug_str     0x00004411       0x89 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+                                0x525 (size before relaxing)
+ .debug_str     0x0000449a       0x85 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+                                0x529 (size before relaxing)
+ .debug_str     0x0000451f       0x8e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+                                0x531 (size before relaxing)
+ .debug_str     0x000045ad       0x89 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+                                0x551 (size before relaxing)
+ .debug_str     0x00004636       0x85 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+                                0x529 (size before relaxing)
+ .debug_str     0x000046bb       0x85 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+                                0x551 (size before relaxing)
+ .debug_str     0x00004740       0xa5 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+                                0x585 (size before relaxing)
+ .debug_str     0x000047e5       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                0xbe2 (size before relaxing)
+ .debug_str     0x00004815       0x9d /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+                                0x666 (size before relaxing)
+ .debug_str     0x000048b2        0xf /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+                                0x752 (size before relaxing)
+ .debug_str     0x000048c1       0x83 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+                                0x16d (size before relaxing)
+ .debug_str     0x00004944       0xb3 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+                                0x582 (size before relaxing)
+ .debug_str     0x000049f7       0x8e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+                                0x55a (size before relaxing)
+ .debug_str     0x00004a85       0x4e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                                0x7e5 (size before relaxing)
+ .debug_str     0x00004ad3       0x91 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+                                 0xc9 (size before relaxing)
+ .debug_str     0x00004b64       0x97 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+                                0x544 (size before relaxing)
+ .debug_str     0x00004bfb      0xbef /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+                               0x10ff (size before relaxing)
+
+.comment        0x00000000       0x43
+ .comment       0x00000000       0x1f ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                                 0x20 (size before relaxing)
+ .comment       0x00000000       0x20 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .comment       0x00000000       0x20 myserial.o
+ .comment       0x00000000       0x20 serial/serial.o
+ .comment       0x00000000       0x20 serial/syscall.o
+ .comment       0x00000000       0x20 Exception.o
+ .comment       0x00000000       0x20 serial/serialISR.o
+ .comment       0x00000000       0x20 /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .comment       0x00000000       0x20 ParTest/ParTest.o
+ .comment       0x00000000       0x20 ../../Source/tasks.o
+ .comment       0x00000000       0x20 ../../Source/croutine.o
+ .comment       0x00000000       0x20 ../../Source/queue.o
+ .comment       0x00000000       0x20 ../../Source/list.o
+ .comment       0x00000000       0x20 ../../Source/timers.o
+ .comment       0x00000000       0x20 ../../Source/event_groups.o
+ .comment       0x00000000       0x20 ../../Source/portable/MemMang/heap_4.o
+ .comment       0x0000001f       0x24 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+                                 0x25 (size before relaxing)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .comment       0x00000000       0x25 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+
+.ARM.attributes
+                0x00000000       0x39
+ .ARM.attributes
+                0x00000000       0x3b ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+ .ARM.attributes
+                0x0000003b       0x3b ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+ .ARM.attributes
+                0x00000076       0x3b myserial.o
+ .ARM.attributes
+                0x000000b1       0x3b serial/serial.o
+ .ARM.attributes
+                0x000000ec       0x3b serial/syscall.o
+ .ARM.attributes
+                0x00000127       0x3b Exception.o
+ .ARM.attributes
+                0x00000162       0x3b serial/serialISR.o
+ .ARM.attributes
+                0x0000019d       0x3b /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ .ARM.attributes
+                0x000001d8       0x3b ParTest/ParTest.o
+ .ARM.attributes
+                0x00000213       0x3b ../../Source/tasks.o
+ .ARM.attributes
+                0x0000024e       0x3b ../../Source/croutine.o
+ .ARM.attributes
+                0x00000289       0x3b ../../Source/queue.o
+ .ARM.attributes
+                0x000002c4       0x3b ../../Source/list.o
+ .ARM.attributes
+                0x000002ff       0x3b ../../Source/timers.o
+ .ARM.attributes
+                0x0000033a       0x3b ../../Source/event_groups.o
+ .ARM.attributes
+                0x00000375       0x3b ../../Source/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x000003b0       0x25 boot.o
+ .ARM.attributes
+                0x000003d5       0x25 random.o
+ .ARM.attributes
+                0x000003fa       0x25 libs.o
+ .ARM.attributes
+                0x0000041f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000044f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000047f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000004af       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004df       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .ARM.attributes
+                0x0000050f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .ARM.attributes
+                0x0000053f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x0000056f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x0000059f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .ARM.attributes
+                0x000005cf       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .ARM.attributes
+                0x000005ff       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x0000062f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x0000065f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000068f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000006bf       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000006ef       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x0000071f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x0000074f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000077f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000007af       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .ARM.attributes
+                0x000007df       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .ARM.attributes
+                0x0000080f       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x0000083f       0x16 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000855       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000885       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .ARM.attributes
+                0x000008b5       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x000008e5       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .ARM.attributes
+                0x00000915       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000945       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000975       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x000009a5       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x000009d5       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .ARM.attributes
+                0x00000a05       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000a35       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000a65       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .ARM.attributes
+                0x00000a95       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000ac5       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000af5       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+ .ARM.attributes
+                0x00000b25       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+ .ARM.attributes
+                0x00000b55       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000b6d       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000b85       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000b9d       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000bb5       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000bcd       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000be5       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000bfd       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000c15       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000c45       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x00000c5d       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+
+.debug_ranges   0x00000000      0x630
+ .debug_ranges  0x00000000       0x20 boot.o
+ .debug_ranges  0x00000020      0x268 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .debug_ranges  0x00000288       0x20 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x000002a8       0x40 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_ranges  0x000002e8       0x68 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .debug_ranges  0x00000350       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .debug_ranges  0x00000368       0x50 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .debug_ranges  0x000003b8       0x10 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .debug_ranges  0x000003c8       0x10 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_ranges  0x000003d8       0x48 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_ranges  0x00000420      0x130 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_ranges  0x00000550       0x30 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .debug_ranges  0x00000580       0x18 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .debug_ranges  0x00000598       0x98 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+
+.debug_loc      0x00000000    0x140fe
+ .debug_loc     0x00000000      0x24f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x0000024f      0x223 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+ .debug_loc     0x00000472       0xe9 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+ .debug_loc     0x0000055b       0xec /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+ .debug_loc     0x00000647      0x2a3 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+ .debug_loc     0x000008ea     0x5c9f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+ .debug_loc     0x00006589      0x24a /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_loc     0x000067d3      0x142 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+ .debug_loc     0x00006915      0x8d1 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_loc     0x000071e6     0x2348 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+ .debug_loc     0x0000952e      0x530 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+ .debug_loc     0x00009a5e      0xa1f /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+ .debug_loc     0x0000a47d      0xb0b /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000af88      0xd42 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_loc     0x0000bcca      0x1ef /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_loc     0x0000beb9     0x24a4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+ .debug_loc     0x0000e35d      0x102 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+ .debug_loc     0x0000e45f      0x1e3 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+ .debug_loc     0x0000e642       0xa0 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+ .debug_loc     0x0000e6e2       0x21 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+ .debug_loc     0x0000e703       0xf2 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+ .debug_loc     0x0000e7f5       0x21 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+ .debug_loc     0x0000e816      0x3a6 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+ .debug_loc     0x0000ebbc      0x1b1 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+ .debug_loc     0x0000ed6d      0x154 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+ .debug_loc     0x0000eec1      0x465 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+ .debug_loc     0x0000f326     0x34e1 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_loc     0x00012807      0x5ef /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+ .debug_loc     0x00012df6      0x201 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+ .debug_loc     0x00012ff7      0x19b /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+ .debug_loc     0x00013192      0x2d4 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+ .debug_loc     0x00013466      0xafa /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x00013f60      0x19e /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+
+Cross Reference Table
+
+Symbol                                            File
+CLR_IF                                            libs.o
+CONDITIONAL_EXECUTE                               libs.o
+DATA_PROCESS1                                     libs.o
+DATA_PROCESS2                                     libs.o
+Dabort_Handler                                    Exception.o
+                                                  boot.o
+GRT_COM_MES                                       libs.o
+HOW_TO_RETURN                                     libs.o
+MEMCPY                                            libs.o
+MEMCPY_MULTIPLE                                   libs.o
+MEMCPY_SINGLE                                     libs.o
+MMU_CleanDCacheIndex                              libs.o
+MMU_CleanDCacheMVA                                libs.o
+MMU_CleanInvalidateDCacheIndex                    libs.o
+MMU_CleanInvalidateDCacheMVA                      libs.o
+MMU_DisableAlignFault                             libs.o
+MMU_DisableDCache                                 libs.o
+MMU_DisableICache                                 libs.o
+MMU_DisableMMU                                    libs.o
+MMU_EnableAlignFault                              libs.o
+MMU_EnableDCache                                  libs.o
+MMU_EnableICache                                  libs.o
+MMU_EnableMMU                                     libs.o
+MMU_InvalidateDCache                              libs.o
+MMU_InvalidateDCacheMVA                           libs.o
+MMU_InvalidateDTLB                                libs.o
+MMU_InvalidateDTLBMVA                             libs.o
+MMU_InvalidateICache                              libs.o
+MMU_InvalidateICacheMVA                           libs.o
+MMU_InvalidateIDCache                             libs.o
+MMU_InvalidateITLB                                libs.o
+MMU_InvalidateITLBMVA                             libs.o
+MMU_InvalidateTLB                                 libs.o
+MMU_PrefetchICacheMVA                             libs.o
+MMU_SetAsyncBusMode                               libs.o
+MMU_SetDCacheLockdownBase                         libs.o
+MMU_SetDTLBLockdown                               libs.o
+MMU_SetDomain                                     libs.o
+MMU_SetFastBusMode                                libs.o
+MMU_SetICacheLockdownBase                         libs.o
+MMU_SetITLBLockdown                               libs.o
+MMU_SetProcessId                                  libs.o
+MMU_SetTTBase                                     libs.o
+MMU_WaitForInterrupt                              libs.o
+OSVersion                                         ParTest/ParTest.o
+Pabort_Handler                                    Exception.o
+                                                  boot.o
+Param_Tbl                                         /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+SET_IF                                            libs.o
+SUM_OF_DEC                                        libs.o
+Task1                                             /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+Task2                                             /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+TaskMain                                          /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+Undef_Handler                                     Exception.o
+                                                  boot.o
+WR_IF                                             libs.o
+_Balloc                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+_Bfree                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+_PathLocale                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__action_table                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__adddf3                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2iz                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_dadd                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__aeabi_dcmpeq                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_dcmpge                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__aeabi_dcmpgt                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_dcmple                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_dcmplt                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_dcmpun                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_ddiv                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__aeabi_dmul                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_drsub                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_f2d                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2d                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_idiv0                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+__aeabi_l2d                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__aeabi_ldiv0                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_dvmd_tls.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+__aeabi_ui2d                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__aeabi_uidiv                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  myserial.o
+__aeabi_uidivmod                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+                                                  myserial.o
+__aeabi_ul2d                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__aeabi_uldivmod                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__any_on                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+__ascii_mbtowc                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__ascii_wctomb                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__b2d                                             /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+__chclass                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__clzdi2                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+__clzsi2                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzsi2.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_clzdi2.o)
+__cmpdf2                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__copybits                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+__ctype_ptr__                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+__d2b                                             /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__default_locale                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__divdf3                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+__env_lock                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+__env_unlock                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-envlock.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+__eqdf2                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__errno                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+                                                  serial/syscall.o
+__eucjp_mbtowc                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__eucjp_wctomb                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__extendsfdf2                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_fixdfsi.o)
+__floatdidf                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__gedf2                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__gtdf2                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__hi0bits                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__i2b                                             /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__jis_mbtowc                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__jis_wctomb                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__ledf2                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__lo0bits                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+__locale_charset                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__locale_cjk_lang                                 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__locale_mb_cur_max                               /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__locale_msgcharset                               /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__lshift                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__ltdf2                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__malloc_av_                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+__malloc_current_mallinfo                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+__malloc_lock                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+__malloc_max_sbrked_mem                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+__malloc_top_pad                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+__malloc_trim_threshold                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+__malloc_unlock                                   /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mlock.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+__mb_cur_max                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__mbtowc                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__mcmp                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__mdiff                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__mlocale_changed                                 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__mprec_bigtens                                   /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__mprec_tens                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__mprec_tinytens                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+__muldf3                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_muldivdf3.o)
+__multadd                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__multiply                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__nedf2                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_cmpdf2.o)
+__nlocale_changed                                 /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__pow5mult                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+__ratio                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+__s2b                                             /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+__set_ctype                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__sjis_mbtowc                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__sjis_wctomb                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__ssprint_r                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__stack_end__                                     boot.o
+__state_table                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+__subdf3                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_addsubdf3.o)
+__udivmoddi4                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivmoddi4.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_aeabi_uldivmod.o)
+__udivsi3                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_udivsi3.o)
+__ulp                                             /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+__unorddf2                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libgcc.a(_arm_unorddf2.o)
+__utf8_mbtowc                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__utf8_wctomb                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+__wctomb                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+_calloc_r                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+_close_r                                          serial/syscall.o
+_ctype_                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-ctype_.o)
+_dtoa_r                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+_exit                                             serial/syscall.o
+_findenv_r                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+_free_r                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+_fstat_r                                          serial/syscall.o
+_getenv_r                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+_global_impure_ptr                                /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+_impure_ptr                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-impure.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-errno.o)
+_isatty_r                                         serial/syscall.o
+_localeconv_r                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+_lseek_r                                          serial/syscall.o
+_malloc_r                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+_malloc_trim_r                                    /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+_mbtowc_r                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mbtowc_r.o)
+_mprec_log10                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+_read_r                                           serial/syscall.o
+_realloc_r                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+_sbrk_r                                           serial/syscall.o
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-freer.o)
+_setlocale_r                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+_strtol_r                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+_svfiprintf_r                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+_svfprintf_r                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+_vsprintf_r                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+_wcrtomb_r                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+_wcsnrtombs_r                                     /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+_wcsrtombs_r                                      /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+_wctomb_r                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wctomb_r.o)
+_write_r                                          serial/syscall.o
+bss_end_addr                                      boot.o
+bss_start_addr                                    boot.o
+buttoncounter                                     ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+data_end_addr                                     boot.o
+data_start_addr                                   boot.o
+eTaskGetState                                     ../../Source/tasks.o
+                                                  /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+end                                               serial/syscall.o
+endless_loop                                      boot.o
+environ                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-environ.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+freertos_IntroTitle                               ParTest/ParTest.o
+frexp                                             /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-s_frexp.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+localeconv                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+main                                              /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+                                                  boot.o
+memchr                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memchr-stub.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+memcpy                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memcpy-stub.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-dtoa.o)
+                                                  ../../Source/queue.o
+memmove                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memmove.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+memset                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-memset.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-callocr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+                                                  serial/syscall.o
+pads_logicsniffs                                  ParTest/ParTest.o
+pcQueueGetName                                    ../../Source/queue.o
+pcTaskGetName                                     ../../Source/tasks.o
+                                                  /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+pcTimerGetName                                    ../../Source/timers.o
+printableChar                                     myserial.o
+printf                                            myserial.o
+                                                  /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+                                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+pvPortMalloc                                      ../../Source/portable/MemMang/heap_4.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+                                                  ../../Source/croutine.o
+                                                  ../../Source/tasks.o
+pvTaskGetThreadLocalStoragePointer                ../../Source/tasks.o
+pvTimerGetTimerID                                 ../../Source/timers.o
+pxCurrentCoRoutine                                ../../Source/croutine.o
+pxCurrentTCB                                      ../../Source/tasks.o
+                                                  serial/serialISR.o
+                                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+pxPortInitialiseStack                             ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+                                                  ../../Source/tasks.o
+randomnumber                                      random.o
+rodata_end_addr                                   boot.o
+seed                                              random.o
+seedrand                                          random.o
+serial_newline                                    myserial.o
+serial_printf                                     myserial.o
+                                                  ParTest/ParTest.o
+                                                  Exception.o
+serial_putbyte                                    myserial.o
+serial_putchar                                    myserial.o
+                                                  serial/serialISR.o
+                                                  serial/syscall.o
+serial_putint                                     myserial.o
+serial_putint_nozeros                             myserial.o
+serial_putlong                                    myserial.o
+serial_putstring                                  myserial.o
+setlocale                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+sprintf                                           myserial.o
+start                                             boot.o
+strcasecmp                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcasecmp.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+strcat                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+strchr                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strchr.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+strcmp                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcmp.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+strcpy                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcpy.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strcat.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+strlcpy                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlcpy.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+strlen                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strlen-stub.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+strncasecmp                                       /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncasecmp.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+strncmp                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncmp.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-getenv_r.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+strncpy                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strncpy.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-locale.o)
+                                                  /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-svfprintf.o)
+strrchr                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strrchr.o)
+                                                  ../../Source/portable/MemMang/heap_4.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+                                                  ../../Source/tasks.o
+strtol                                            /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-strtol.o)
+task1timer                                        /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+task2timer                                        /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+ulCriticalNesting                                 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                                                  serial/serialISR.o
+ulTaskNotifyTake                                  ../../Source/tasks.o
+uxListRemove                                      ../../Source/list.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/croutine.o
+                                                  ../../Source/tasks.o
+uxQueueMessagesWaiting                            ../../Source/queue.o
+uxQueueMessagesWaitingFromISR                     ../../Source/queue.o
+uxQueueSpacesAvailable                            ../../Source/queue.o
+uxTaskGetNumberOfTasks                            ../../Source/tasks.o
+uxTaskPriorityGet                                 ../../Source/tasks.o
+                                                  /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+uxTaskPriorityGetFromISR                          ../../Source/tasks.o
+uxTaskResetEventItemValue                         ../../Source/tasks.o
+                                                  ../../Source/event_groups.o
+vApplicationIdleHook                              /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+vAssertCalled                                     ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+                                                  ../../Source/portable/MemMang/heap_4.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+                                                  ../../Source/tasks.o
+vCoRoutineAddToDelayedList                        ../../Source/croutine.o
+                                                  ../../Source/queue.o
+vCoRoutineSchedule                                ../../Source/croutine.o
+vEventGroupClearBitsCallback                      ../../Source/event_groups.o
+vEventGroupDelete                                 ../../Source/event_groups.o
+vEventGroupSetBitsCallback                        ../../Source/event_groups.o
+vIRQHandler                                       ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                                                  boot.o
+                                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+vKey_ISR_Handler                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+vListInitialise                                   ../../Source/list.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+                                                  ../../Source/croutine.o
+                                                  ../../Source/tasks.o
+vListInitialiseItem                               ../../Source/list.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/croutine.o
+                                                  ../../Source/tasks.o
+vListInsert                                       ../../Source/list.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/croutine.o
+                                                  ../../Source/tasks.o
+vListInsertEnd                                    ../../Source/list.o
+                                                  ../../Source/croutine.o
+                                                  ../../Source/tasks.o
+vLogicSniffMultiSetLED5                           ParTest/ParTest.o
+vLogicSniffMultiSetLED6                           ParTest/ParTest.o
+vLogicSniffSetLED                                 ParTest/ParTest.o
+vLogicSniffToggleLED                              ParTest/ParTest.o
+vParTestInitialise                                ParTest/ParTest.o
+                                                  /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+vParTestSetLED                                    ParTest/ParTest.o
+vParTestToggleLED                                 ParTest/ParTest.o
+vPortEndScheduler                                 ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+                                                  ../../Source/tasks.o
+vPortEnterCritical                                ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+                                                  ../../Source/tasks.o
+                                                  serial/serial.o
+vPortExitCritical                                 ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+                                                  ../../Source/tasks.o
+                                                  serial/serial.o
+vPortFree                                         ../../Source/portable/MemMang/heap_4.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+                                                  ../../Source/tasks.o
+vPortISRStartFirstTask                            ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+vPortInitialiseBlocks                             ../../Source/portable/MemMang/heap_4.o
+vPortYieldProcessor                               ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+                                                  boot.o
+                                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+vQueueAddToRegistry                               ../../Source/queue.o
+                                                  ../../Source/timers.o
+vQueueDelete                                      ../../Source/queue.o
+vQueueUnregisterQueue                             ../../Source/queue.o
+vQueueWaitForMessageRestricted                    ../../Source/queue.o
+                                                  ../../Source/timers.o
+vSerialClose                                      serial/serial.o
+vSerialISRCreateQueues                            serial/serialISR.o
+                                                  serial/serial.o
+vSerialPutString                                  serial/serial.o
+vTaskDelay                                        ../../Source/tasks.o
+vTaskDelayUntil                                   ../../Source/tasks.o
+vTaskDelete                                       ../../Source/tasks.o
+                                                  /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+vTaskEndScheduler                                 ../../Source/tasks.o
+vTaskInternalSetTimeOutState                      ../../Source/tasks.o
+                                                  ../../Source/queue.o
+vTaskMissedYield                                  ../../Source/tasks.o
+                                                  ../../Source/queue.o
+vTaskNotifyGiveFromISR                            ../../Source/tasks.o
+vTaskPlaceOnEventList                             ../../Source/tasks.o
+                                                  ../../Source/queue.o
+vTaskPlaceOnEventListRestricted                   ../../Source/tasks.o
+                                                  ../../Source/queue.o
+vTaskPlaceOnUnorderedEventList                    ../../Source/tasks.o
+                                                  ../../Source/event_groups.o
+vTaskPrioritySet                                  ../../Source/tasks.o
+vTaskRemoveFromUnorderedEventList                 ../../Source/tasks.o
+                                                  ../../Source/event_groups.o
+vTaskResume                                       ../../Source/tasks.o
+vTaskSetThreadLocalStoragePointer                 ../../Source/tasks.o
+vTaskSetTimeOutState                              ../../Source/tasks.o
+vTaskStartScheduler                               ../../Source/tasks.o
+                                                  /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+vTaskSuspend                                      ../../Source/tasks.o
+vTaskSuspendAll                                   ../../Source/tasks.o
+                                                  ../../Source/portable/MemMang/heap_4.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+vTaskSwitchContext                                ../../Source/tasks.o
+                                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+vTickISR                                          ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+vTimerSetTimerID                                  ../../Source/timers.o
+vUART_ISR_Handler                                 serial/serialISR.o
+                                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+vUART_ISR_Wrapper                                 serial/serialISR.o
+vsprintf                                          /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-vsprintf.o)
+                                                  myserial.o
+wcrtomb                                           /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcrtomb.o)
+wcsnrtombs                                        /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsnrtombs.o)
+wcsrtombs                                         /opt/gcc-linaro-6.5.0-2018.12-i686_arm-eabi/arm-eabi/libc/usr/lib/libc.a(lib_a-wcsrtombs.o)
+xCoRoutineCreate                                  ../../Source/croutine.o
+xCoRoutineRemoveFromEventList                     ../../Source/croutine.o
+                                                  ../../Source/queue.o
+xEventGroupClearBits                              ../../Source/event_groups.o
+xEventGroupCreate                                 ../../Source/event_groups.o
+xEventGroupGetBitsFromISR                         ../../Source/event_groups.o
+xEventGroupSetBits                                ../../Source/event_groups.o
+xEventGroupSync                                   ../../Source/event_groups.o
+xEventGroupWaitBits                               ../../Source/event_groups.o
+xHandle1                                          /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+xHandle2                                          /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+xHandleMain                                       /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+xPortGetFreeHeapSize                              ../../Source/portable/MemMang/heap_4.o
+xPortGetMinimumEverFreeHeapSize                   ../../Source/portable/MemMang/heap_4.o
+xPortStartScheduler                               ../../Source/portable/GCC/OMAP3_BeagleBoard/port.o
+                                                  ../../Source/tasks.o
+xQueueCRReceive                                   ../../Source/queue.o
+xQueueCRReceiveFromISR                            ../../Source/queue.o
+xQueueCRSend                                      ../../Source/queue.o
+xQueueCRSendFromISR                               ../../Source/queue.o
+xQueueCreateCountingSemaphore                     ../../Source/queue.o
+xQueueGenericCreate                               ../../Source/queue.o
+                                                  ../../Source/timers.o
+                                                  serial/serialISR.o
+xQueueGenericReset                                ../../Source/queue.o
+xQueueGenericSend                                 ../../Source/queue.o
+                                                  ../../Source/timers.o
+                                                  serial/serial.o
+xQueueGenericSendFromISR                          ../../Source/queue.o
+                                                  ../../Source/timers.o
+xQueueGiveFromISR                                 ../../Source/queue.o
+xQueueIsQueueEmptyFromISR                         ../../Source/queue.o
+xQueueIsQueueFullFromISR                          ../../Source/queue.o
+xQueuePeek                                        ../../Source/queue.o
+xQueuePeekFromISR                                 ../../Source/queue.o
+xQueueReceive                                     ../../Source/queue.o
+                                                  ../../Source/timers.o
+                                                  serial/serial.o
+xQueueReceiveFromISR                              ../../Source/queue.o
+xQueueRegistry                                    ../../Source/queue.o
+xQueueSemaphoreTake                               ../../Source/queue.o
+xSerialGetChar                                    serial/serial.o
+xSerialPortInitMinimal                            serial/serial.o
+xSerialPutChar                                    serial/serial.o
+xTaskCheckForTimeOut                              ../../Source/tasks.o
+                                                  ../../Source/queue.o
+xTaskCreate                                       ../../Source/tasks.o
+                                                  ../../Source/timers.o
+                                                  /home/user/Desktop/freertos_beagleboard/app/01_TASKMAN/main.o
+xTaskGenericNotify                                ../../Source/tasks.o
+xTaskGenericNotifyFromISR                         ../../Source/tasks.o
+xTaskGetCurrentTaskHandle                         ../../Source/tasks.o
+xTaskGetSchedulerState                            ../../Source/tasks.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+xTaskGetTickCount                                 ../../Source/tasks.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/croutine.o
+xTaskGetTickCountFromISR                          ../../Source/tasks.o
+xTaskIncrementTick                                ../../Source/tasks.o
+                                                  ../../Source/portable/GCC/OMAP3_BeagleBoard/portISR.o
+xTaskNotifyStateClear                             ../../Source/tasks.o
+xTaskNotifyWait                                   ../../Source/tasks.o
+xTaskRemoveFromEventList                          ../../Source/tasks.o
+                                                  ../../Source/queue.o
+xTaskResumeAll                                    ../../Source/tasks.o
+                                                  ../../Source/portable/MemMang/heap_4.o
+                                                  ../../Source/event_groups.o
+                                                  ../../Source/timers.o
+                                                  ../../Source/queue.o
+xTaskResumeFromISR                                ../../Source/tasks.o
+xTimerCreate                                      ../../Source/timers.o
+xTimerCreateTimerTask                             ../../Source/timers.o
+                                                  ../../Source/tasks.o
+xTimerGenericCommand                              ../../Source/timers.o
+xTimerGetExpiryTime                               ../../Source/timers.o
+xTimerGetPeriod                                   ../../Source/timers.o
+xTimerGetTimerDaemonTaskHandle                    ../../Source/timers.o
+xTimerIsTimerActive                               ../../Source/timers.o
